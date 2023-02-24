@@ -1,0 +1,17 @@
+.hi{
+  color: aqua;
+}
+
+.he{
+  margin: 10px;
+  color: aliceblue;
+  margin-left: 330px;
+}
+*{
+  background: #9e8c8c;
+  color: aliceblue;
+  /* margin: 100px; */
+  font-size: 1em;
+
+}
+/* .lin{} */
